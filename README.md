@@ -44,6 +44,7 @@ Real-time-booking-platform/
 │   └── src/
 │
 └── README.md
+
 ⚡ Real-Time Communication
 
 Socket.IO enables real-time communication for:
@@ -52,12 +53,14 @@ Ride status updates
 Ride requests
 Captain location updates
 Live ride tracking
+
 🔐 Authentication
 
 The application uses JWT authentication and role-based access control for:
 
 User: Request and manage rides
 Captain: Accept and manage rides
+
 🗺️ Google Maps
 
 Google Maps API is used for:
@@ -65,6 +68,7 @@ Google Maps API is used for:
 Pickup and destination locations
 Route information
 Live captain tracking
+
 ⚙️ Installation
 git clone https://github.com/Keshavnagar5/Real-time-booking-platform.git
 cd Real-time-booking-platform
@@ -76,9 +80,6 @@ Frontend
 cd frontend
 npm install
 npm run dev
+
 👨‍💻 Author
-
 Keshav Nagar
-
-
-**This is the version I'd use.** It shows the recruiter the important things quickly: **architecture → tech s
